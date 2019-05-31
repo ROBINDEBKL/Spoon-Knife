@@ -1,0 +1,1 @@
+My interests are on blockchain and smart contract. It will be blessed repository where we have integration manager and other independent developer. Currently we are still thinking about how should we organize the team project.
